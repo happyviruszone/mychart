@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  javamicroserviceseungyeon:
+  - apiVersion: v1
+    created: 2019-04-03T19:20:50.040109+09:00
+    description: A Helm chart for Kubernetes
+    digest: d816cb866c5763af7376cf1edcb07f8fea728efd98462dba239f7b2d61c0a9f7
+    name: javamicroserviceseungyeon
+    urls:
+    - javamicroserviceseungyeon-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-04-03T19:20:50.039109+09:00
